@@ -1,0 +1,80 @@
+# Ignore bundler config
+/.bundle
+
+# Ignore log files
+/log/*
+!/log/.keep
+
+# Ignore temp files
+/tmp/*
+!/tmp/.keep
+
+# Ignore PID files
+/tmp/pids/*
+!/tmp/pids/.keep
+
+# Ignore storage files
+/storage/*
+!/storage/.keep
+
+# Ignore database
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Ignore credentials and secrets
+/config/master.key
+
+# Ignore environment variables
+.env
+.env.*
+
+# Ignore node modules
+/node_modules
+
+# Ignore compiled assets
+/public/assets
+/public/packs
+/public/packs-test
+
+# Ignore yarn / npm debug logs
+yarn-error.log
+npm-debug.log*
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore editor settings
+.vscode/
+.idea/
+
+# Ignore docker override files
+docker-compose.override.yml
+
+# Ignore coverage reports
+/coverage
+
+# Ignore test artifacts
+/spec/tmp
+
+# Ignore byebug history
+.byebug_history
+
+# Ignore vendor bundle
+/vendor/bundle
+
+# Ignore ruby version managers
+.rbenv-vars
+.rvmrc
+
+# Ignore rubocop cache
+.rubocop-*
+
+# Ignore spring files
+/spring
+
+# Rails temp files
+api/tmp/*
+api/tmp/cache/*
+api/tmp/pids/*
+api/tmp/storage/*
+api/log/*

@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  original_name: MyString
+  storage_key: MyString
+  size_bytes: 
+  checksum: MyString
+
+two:
+  original_name: MyString
+  storage_key: MyString
+  size_bytes: 
+  checksum: MyString

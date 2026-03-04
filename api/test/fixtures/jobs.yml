@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dataset: one
+  job_type: MyString
+  params: 
+  status: MyString
+  progress: 1
+  started_at: 2026-03-04 10:57:49
+  finished_at: 2026-03-04 10:57:49
+  idempotency_key: MyString
+
+two:
+  dataset: two
+  job_type: MyString
+  params: 
+  status: MyString
+  progress: 1
+  started_at: 2026-03-04 10:57:49
+  finished_at: 2026-03-04 10:57:49
+  idempotency_key: MyString

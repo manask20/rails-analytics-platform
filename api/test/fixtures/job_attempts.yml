@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  job: one
+  attempt_no: 1
+  started_at: 2026-03-04 10:57:59
+  finished_at: 2026-03-04 10:57:59
+  error_class: MyString
+  error_message: MyText
+
+two:
+  job: two
+  attempt_no: 1
+  started_at: 2026-03-04 10:57:59
+  finished_at: 2026-03-04 10:57:59
+  error_class: MyString
+  error_message: MyText
